@@ -3,7 +3,12 @@
 ## How to flash
 
 ### Burn bootloader
+Motherboard v1.1.3
+
 [Ender 3 Firmware flashing Article from All3dp](https://all3dp.com/2/ender-3-with-marlin-how-to-install-marlin-firmware-on-your-ender-3/)
+
+First we will need to install the drivers for the Arduino uno.
+if you have an R3 Clone, you can find [drivers here](https://www.srishtirobotics.com/more/blog/154-arduino-uno-r3-clone-ch340-ch341-usb-driver). You will have to install them through Windows Device Manager. 
 
 > What You’ll Need
 >
